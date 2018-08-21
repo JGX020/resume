@@ -18,7 +18,7 @@ Bachelor Degree
         
         Computer Science and technology College
         
-        2009-2016
+        2009-2015
         
 Programming Language:python/shell/java/C#/SQL
 
